@@ -1,0 +1,64 @@
+[
+    {
+        "name":"Sultan Shop",
+        "site_link":"https://rekonir.github.io/shop/",
+        "hub_link":"https://github.com/Rekonir/shop.git",
+        "linkColor":"orange",
+        "photo":"../img/Sultan.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+    },
+    {
+        "name":"Gobbo Selector",
+        "site_link":"https://rekonir.github.io/Gobbo/",
+        "hub_link":"https://github.com/Rekonir/Gobbo.git",
+        "linkColor":"purple",
+        "photo":"../img/Gobbo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+
+    },
+    {
+        "name":"Hotels",
+        "site_link":"https://rekonir.github.io/Hotels/",
+        "hub_link":"https://github.com/Rekonir/Hotels.git",
+        "linkColor":"blue",
+        "photo":"../img/Hotel.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+
+    },
+    {
+        "name":"Comments Form",
+        "site_link":"https://rekonir.github.io/CommentForm/",
+        "hub_link":"https://github.com/Rekonir/CommentForm.git",
+        "linkColor":"green",
+        "photo":"../img/Comment.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+
+    },
+    {
+        "name":"Git Searcher",
+        "site_link":"https://rekonir.github.io/GitSearch/",
+        "hub_link":"https://github.com/Rekonir/GitSearch.git",
+        "linkColor":"red",
+        "photo":"../img/GitSearch.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+
+    },
+    {
+        "name":"Fireplace Shop",
+        "site_link":"https://rekonir.github.io/fireplaces/",
+        "hub_link":"https://github.com/Rekonir/fireplaces.git",
+        "linkColor":"red",
+        "photo":"../img/Fireplace.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+
+    },
+    {
+        "name":"Chairs Shop",
+        "site_link":"https://rekonir.github.io/chairs/",
+        "hub_link":"https://github.com/Rekonir/chairs.git",
+        "linkColor":"red",
+        "photo":"../img/Cheirs.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+
+    }
+]

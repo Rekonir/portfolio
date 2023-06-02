@@ -1,0 +1,87 @@
+@import "../../../App/App.scss";
+
+.Button {
+    color: $color-white;
+    cursor: pointer;
+    scale: 1;
+    transition: $hover-animation;
+    &:hover {
+        scale: 1.1;
+        transition: $hover-animation;
+    }
+}
+.orange {
+    background: $color-orange;
+    box-shadow: 0 0 1vw 0.1vw $color-orange;
+    border: $color-neon-orange;
+    &:hover {
+        box-shadow: 0 0 20px 4px $color-neon-orange;
+    }
+}
+.blue {
+    background: transparent;
+    box-shadow: 0 0 0.25vw 0.05vw rgb(12, 12, 150), inset 0 0 0.25vw 0.05vw rgb(12, 12, 150);
+    border: 0.01vw solid rgb(56, 56, 253);
+    color: rgb(188, 188, 255);
+    text-shadow: rgb(12, 12, 150) 0 0 0.25vw;
+    &:hover {
+        border: 0.01vw  solid rgb(72, 121, 255);
+        box-shadow: 0 0 1.75vw 0.25vw rgb(0, 0, 255), inset 0 0 1.75vw 0.05vw rgb(0, 0, 255);
+        color: rgb(72, 121, 255);
+        text-shadow: rgb(0, 0, 255) 0 0 0.5vw;
+    }
+}
+.green {
+    background: $color-green;
+    box-shadow: 0 0 1vw 0.1vw $color-green;
+    border: $color-neon-green;
+    &:hover {
+        box-shadow: 0 0 20px 4px $color-neon-green;
+    }
+}
+.red {
+    background: $color-red;
+    box-shadow: 0 0 1vw 0.1vw $color-red;
+    border: $color-neon-red;
+    &:hover {
+        box-shadow: 0 0 20px 4px $color-neon-red;
+    }
+}
+.purple {
+    background: $color-purple;
+    box-shadow: 0 0 1vw 0.1vw $color-purple;
+    border: $color-neon-purple;
+    &:hover {
+        box-shadow: 0 0 20px 4px $color-neon-purple;
+    }
+}
+.white {
+    background: $color-white;
+    box-shadow: 0 0 1vw 0.1vw $color-white;
+    border: $color-full-white;
+    color: $color-dark-grey;
+    &:hover {
+        box-shadow: 0 0 20px 4px $color-full-white;
+    }
+}
+.medium {
+    width: 13vw;
+    height: 3vw;
+    padding: 0.3vw 0.5vw;
+    font-size: 1.1vw;
+    border-radius: 4vw;
+}
+.large {
+    width: 30vw;
+    height: 6vw;
+    padding: 1vw 2vw;
+    font-size: 2vw;
+    border-radius: 6vw;
+}
+.small {
+    width: 15vw;
+    height: 3vw;
+    padding: 0.5vw 1vw;
+    font-size: 1.3vw;
+    border-radius: 3vw;
+}

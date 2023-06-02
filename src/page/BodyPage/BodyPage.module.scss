@@ -1,0 +1,10 @@
+@import "../../App/App.scss";
+
+.BodyPage{
+    margin-top: 10vw;
+    width: 100vw;
+    display: grid;
+    gap: 2vw;
+    grid-template-columns: repeat(1,1fr);
+  
+}
