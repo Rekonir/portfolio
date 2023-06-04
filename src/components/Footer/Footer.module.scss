@@ -1,0 +1,28 @@
+@import "../../App/App.scss";
+.Footer {
+    width: 100vw;
+    height: 18vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    align-content: center;
+    box-shadow: 0 0 0.5vw 0.25vw $color-white;
+    transition: $hover-animation;
+    border-top: 1px solid $color-white;
+    background: $color-dark-grey;
+    &:hover {
+        box-shadow: 0 0 1vw 0.5vw $color-full-white;
+        transition: $hover-animation;
+        border-top: 1px solid $color-full-white;
+    }
+}
+.btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+}
+h3 {
+    text-transform: uppercase;
+}

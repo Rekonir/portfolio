@@ -20,9 +20,9 @@ const Content: FC<linkProps> = ({ position }) => {
                             {position.name}
                         </Button>
                     </a>
-                    <a className={style.link} href={position.site_link}>
+                    <a className={style.link} href={position.hub_link}>
                         <Button >
-                            GitHub: {position.name}
+                            {position.name==="Я на hh.ru"? "GitHub":`GitHub: ${position.name}`}
                         </Button>
                     </a>
                 </div>

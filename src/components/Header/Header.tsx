@@ -3,6 +3,17 @@ import Button from '../UI/Button/Button';
 
 
 const Header = () => {
+    const downloadFile = () => {
+        const fileUri =
+            "https://example.com/example.docx";
+
+        const link = document.createElement("a");
+        link.href = fileUri;
+        link.setAttribute("download", "example.docx");
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
     return (
         <div className={style.header}>
             <div className={style.contacts}>
@@ -13,7 +24,7 @@ const Header = () => {
                 Скачать резюме
             </Button>
             <Button variant="red" size='small'>
-                Я на HH.ru
+                Я на hh.ru
             </Button>
         </div>
     );
