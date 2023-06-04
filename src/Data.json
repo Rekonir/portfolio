@@ -13,7 +13,7 @@
         "hub_link":"https://github.com/Rekonir/shop.git",
         "linkColor":"orange",
         "photo":"/src/img/Sultan.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+        "description": "Интернет-магазин, по продаже средств по уходу. Делался в качестве курсовой работы по курсу обучения Frontend. На основе локальной базы данных, происходит демонстрация каталога, согласно выставленным фильтрам и сортировки. Также появляется динамическая пагинация, если количество товаров в базе больше 10. Фильтры по типам ухода в верхней и в левой панели синхронизированы, а поисковик по странам облегает выделение производителей. На странице администрации есть возможность добавление новых товаров в каталог или удаление уже имеющихся. При добавлении в корзину, автоматически пересчитывается количество позиций и суммарная стоимость, а при переходе на страницу покупок эта информация отображается более детально. При клике на карточку товара, происходит переход на соответствующую страницу с подробной информацией и возможностью добавления сразу нескольких единиц позиции. Проект делался по уже готовому шаблону Figma. Использовались: React, Redux, TS, scss"
     },
     {
         "name":"Gobbo Selector",
@@ -21,7 +21,7 @@
         "hub_link":"https://github.com/Rekonir/Gobbo.git",
         "linkColor":"purple",
         "photo":"/src/img/Gobbo.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+        "description": "Сайт, сделанный для личных нужд. По сути, представляет фильтр базы данных согласно требованием клиента, которые задаются ползунками. Фон отображается с эффектом параллакс, отслеживающий положение мыши на экране. Использовались pug, scss, js."
 
     },
     {
@@ -30,7 +30,7 @@
         "hub_link":"https://github.com/Rekonir/Hotels.git",
         "linkColor":"blue",
         "photo":"/src/img/Hotel.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+        "description": "Сайт бронирования отелей, написанный в качестве выпускной работы по курсам html верстки. Имеются следующие страницы: Главная, Каталог, Карточка отеля, Блоки входа и регистрации, Ошибка. Динамика присутствует только в изменении фона, переключением слайдов фотографий отеля, выбора чекбоксов и детализирование отображения отзывов. Использовались: pug, scss, js."
 
     },
     {
@@ -39,7 +39,7 @@
         "hub_link":"https://github.com/Rekonir/CommentForm.git",
         "linkColor":"green",
         "photo":"/src/img/Comment.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+        "description": "API имитирующие заметки. При вводе ника, даты и текста, соответствующее сообщение появляется в окне лога. Опубликованные сообщения можно «пролайкать» или удалить, а время отображается с учетом сегодняшней даты (вчерашняя дата будет отображать «Вчера», завтра – «Завтра»). Использовались: pug, scss, js."
 
     },
     {
@@ -48,7 +48,7 @@
         "hub_link":"https://github.com/Rekonir/GitSearch.git",
         "linkColor":"red",
         "photo":"/src/img/GitSearch.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+        "description": "API для поиска среди базы GitHub репозиториев. В первую очередь показываются варианты с максимальным совпадением, а после – те, которые в той или иной степени удовлетворяют запросу. Использовались: pug, scss, js."
 
     },
     {
@@ -57,7 +57,7 @@
         "hub_link":"https://github.com/Rekonir/fireplaces.git",
         "linkColor":"red",
         "photo":"/src/img/Fireplace.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+        "description": "Вступительная работа по верстке для курса обучения Frontend. Требовалось сделать страничку для магазина каминов без какой-либо динамики и адаптивности согласно предоставленную шаблону в Figma. Верстка отличалась переходами заднего фона, эмитирующую свечение пламени и стилизованными чекбоксами. Использовались: pug, scss."
 
     },
     {
@@ -66,7 +66,7 @@
         "hub_link":"https://github.com/Rekonir/chairs.git",
         "linkColor":"red",
         "photo":"/src/img/Cheirs.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id sodales dolor. In lobortis augue non ipsum hendrerit, quis facilisis dolor fermentum. Nam in placerat arcu. Nam eget justo quis augue ornare euismod vitae vitae quam. Donec eleifend porttitor libero, sed sagittis mi eleifend ac. Aliquam nec justo vel diam fringilla tempor sed at erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam viverra sit amet ex eu aliquam. Suspendisse venenatis, sapien in mattis gravida, lacus augue dictum ante, in bibendum sem lectus at mauris."
+        "description": "Вступительная работа по верстке для курса обучения Frontend. Требовалось сделать простую страничку для магазина кресел и какой-либо динамики без адаптивности согласно предоставленную шаблону в Figma. Использовались: pug, scss."
 
     }
 ]
