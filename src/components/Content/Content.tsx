@@ -15,12 +15,12 @@ const Content: FC<linkProps> = ({ position }) => {
             <div className={style.description}>
                 <p>{position.description}</p>
                 <div className={style.btns}>
-                    <a className={style.link} href={position.site_link}>
+                    <a className={style.link} href={position.site_link} target='_blank'>
                         <Button >
                             {position.name}
                         </Button>
                     </a>
-                    <a className={style.link} href={position.hub_link}>
+                    <a className={style.link} href={position.hub_link} target='_blank'>
                         <Button >
                             {position.name==="Я на hh.ru"? "GitHub":`GitHub: ${position.name}`}
                         </Button>

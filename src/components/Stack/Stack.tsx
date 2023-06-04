@@ -6,7 +6,7 @@ const Stack = () => {
         <div className={style.Stack}>
             {
                 IconsData.map(icon => (
-                    <a href={icon.link}>
+                    <a href={icon.link} target='_blank'>
                         <img src={icon.logo} alt="stack" className={style.icon} />
                     </a>
 
