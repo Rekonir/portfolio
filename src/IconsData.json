@@ -1,63 +1,63 @@
 [
   {
     "link": "https://html.com/html5/",
-    "logo": "/src/img/icons/icons8-html-5.svg"
+    "logo": "./src/img/icons/icons8-html-5.svg"
   },
   {
     "link": "https://pugjs.org/api/getting-started.html",
-    "logo": "/src/img/icons/icons8-pug.svg"
+    "logo": "./src/img/icons/icons8-pug.svg"
   },
   {
     "link": "https://www.w3.org/Style/CSS/Overview.en.html",
-    "logo": "/src/img/icons/icons8-css3-480.svg"
+    "logo": "./src/img/icons/icons8-css3-480.svg"
   },
   {
     "link": "https://sass-lang.com/",
-    "logo": "/src/img/icons/icons8-sass.svg"
+    "logo": "./src/img/icons/icons8-sass.svg"
   },
   {
     "link": "https://www.ecma-international.org/publications-and-standards/standards/ecma-262/",
-    "logo": "/src/img/icons/icons8-javascript.svg"
+    "logo": "./src/img/icons/icons8-javascript.svg"
   },
   {
     "link": "https://www.typescriptlang.org/",
-    "logo": "/src/img/icons/icons8-typescript.svg"
+    "logo": "./src/img/icons/icons8-typescript.svg"
   },
   {
     "link": "https://react.dev/",
-    "logo": "/src/img/icons/icons8-react-native.svg"
+    "logo": "./src/img/icons/icons8-react-native.svg"
   },
   {
     "link": "https://redux.js.org/",
-    "logo": "/src/img/icons/icons8-redux.svg"
+    "logo": "./src/img/icons/icons8-redux.svg"
   },
   {
     "link": "https://redux.js.org/",
-    "logo": "/src/img/icons/icons8-axios.svg"
+    "logo": "./src/img/icons/icons8-axios.svg"
   },
   {
     "link": "https://axios-http.com/docs/intro",
-    "logo": "/src/img/icons/icons8-jest.svg"
+    "logo": "./src/img/icons/icons8-jest.svg"
   },
   {
     "link": "https://www.docker.com/",
-    "logo": "/src/img/icons/icons8-docker.svg"
+    "logo": "./src/img/icons/icons8-docker.svg"
   },
   {
     "link": "https://nodejs.org/en",
-    "logo": "/src/img/icons/icons8-nodejs.svg"
+    "logo": "./src/img/icons/icons8-nodejs.svg"
   },
   {
     "link": "https://www.npmjs.com/",
-    "logo": "/src/img/icons/icons8-npm.svg"
+    "logo": "./src/img/icons/icons8-npm.svg"
   },
   {
     "link": "https://github.com/",
-    "logo": "/src/img/icons/icons8-github.svg"
+    "logo": "./src/img/icons/icons8-github.svg"
   },
   {
     "link": "https://code.visualstudio.com/",
-    "logo": "/src/img/icons/icons8-visual-studio-code-2019.svg"
+    "logo": "./src/img/icons/icons8-visual-studio-code-2019.svg"
   }
   
 ]
