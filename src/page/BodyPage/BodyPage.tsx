@@ -1,5 +1,5 @@
 import style from './BodyPage.module.scss'
-import Data from '../../Data.json'
+import Data from '../../../public/Data.json'
 import Content from '../../components/Content/Content';
 
 const BodyPage = () => {

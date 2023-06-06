@@ -1,5 +1,5 @@
 import style from './Stack.module.scss';
-import IconsData from '../../IconsData.json'
+import IconsData from '../../../public/IconsData.json'
 
 const Stack = () => {
     return (
