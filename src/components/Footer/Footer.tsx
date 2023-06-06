@@ -8,10 +8,10 @@ const Footer = () => {
             <h3>Experience </h3>
             <Stack />
             <div className={style.btns}>
-                <Button variant='white' size='small'>
+                <Button variant='white'>
                     Скачать резюме
                 </Button>
-                <Button variant="red" size='small'>
+                <Button variant="red">
                     Я на hh.ru
                 </Button>
             </div>

@@ -10,6 +10,10 @@
         height: 3vw;
         transition: $hover-animation;
         scale: 1;
+        @media (min-width: 1441px) {
+            width: 2vw;
+            height: 2vw;
+        }
         &:hover {
             scale: 1.5;
             transition: $hover-animation;

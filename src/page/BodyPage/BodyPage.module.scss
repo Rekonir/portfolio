@@ -1,10 +1,13 @@
 @import "../../App/App.scss";
 
-.BodyPage{
+.BodyPage {
     margin-top: 10vw;
-    width: 100vw;
+    width: 70vw;
     display: grid;
     gap: 2vw;
-    grid-template-columns: repeat(1,1fr);
-  
+    grid-template-columns: repeat(1, 1fr);
+    // margin: 10vw auto 2vw auto;
+    @media (min-width: 1441px) {
+        margin-top: 6vw;
+    }
 }

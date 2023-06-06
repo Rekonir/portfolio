@@ -10,8 +10,8 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    align-content: inherit;
-    width: 100vw;
+    align-content: center;
+    width: 100%;
     height: 6vw;
     background: rgba($color-grey, 0.75);
     box-shadow: 0 0 0.5vw 0.25vw $color-white;
@@ -22,6 +22,9 @@
         transition: $hover-animation;
         border-bottom: 1px solid $color-full-white;
         background: rgba($color-grey, 1);
+    }
+    @media (min-width: 1441px) {
+        height: 4vw;
     }
 }
 .contacts{

@@ -20,10 +20,10 @@ const Header = () => {
                 <p>Телефон для связи: +7(981)973-80-72</p>
                 <p>Почта для связи: zhed-nikita@mail.ru</p>
             </div>
-            <Button variant='white' size='small'>
+            <Button variant='white' >
                 Скачать резюме
             </Button>
-            <Button variant="red" size='small'>
+            <Button variant="red" >
                 Я на hh.ru
             </Button>
         </div>
