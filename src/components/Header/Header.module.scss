@@ -35,3 +35,19 @@
     color: $color-white
     
 }
+a{
+    display: block;
+    position: relative;
+    width: 12vw;
+    height: 3vw;
+    @media (min-width: 1441px) {
+        height: 1.75vw;
+    }
+    &>*{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+}

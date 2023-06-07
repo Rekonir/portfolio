@@ -11,19 +11,21 @@
     background: rgba($color-grey, 0.9);
     border-radius: 2vw;
     box-shadow: 0 0 0.5vw 0.25vw rgba($color-grey, 0.9);
-    
 }
 .photoBox {
     width: 48%;
     height: auto;
-    max-width: 25vw;
-    margin: auto;
-    position: relative;
+    max-width: 40vw;
     border-radius: 2vw;
     display: flex;
-    justify-content: center;
-    align-content: center;
-   
+    justify-content: start;
+    align-content: start;
+    @media (min-width: 1441px) {
+        justify-content: center;
+        align-content: center;
+        max-width: 30vw;
+        margin: auto;
+    }
 }
 .photo {
     width: 100%;
